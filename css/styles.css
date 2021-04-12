@@ -1,3 +1,69 @@
 body {
-    background-color: blue;
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #98ddca;
+}
+
+h1 {
+    margin: 35px auto 15px auto;
+    font-size: 2.8rem;
+    color: white;
+    font-weight: normal;
+}
+
+#my-pic {
+    border-radius: 100%;
+    width: 150px;
+}
+
+.top-container {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.top-container h2 {
+    margin: 0 auto;
+    padding-bottom: 40px;
+    font-size: 1.4rem;
+    font-weight: normal;
+    color: #206a5d;
+}
+
+.middle-container {
+    color: #206a5d;
+    background-color: #f7f3e9;
+    padding: 50px 0;
+    height: 210px;
+}
+
+.mid-content {
+    text-align: center;
+    width: 50%;
+    height: 220px;
+    float: left;
+}
+
+.tool-topic {
+    font-weight: bold;
+}
+
+#tool h2 {
+    padding-bottom: 20px;
+}
+
+#tool h3 {
+    font-size: 1.1rem;
+}
+
+#portfolio {
+}
+
+.bottom-container {
+    text-align: center;
+}
+
+.bottom-container h2 {
+    font-size: 1.6rem;
+    color: white;
+    padding-top: 20px;
 }
